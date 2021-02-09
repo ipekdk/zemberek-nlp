@@ -1,3 +1,5 @@
+Read FQA first
+
 Zemberek-NLP
 ============
 
